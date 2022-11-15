@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="4.0.1.1" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="001_SOAP_DENEME">C:/Users/Hüseyin/Documents/001-SOAP-DENEME-soapui-project.xml</con:project>
+  <con:project name="002_SOAP_DENEME_2">C:/Users/Hüseyin/Documents/002-SOAP-DENEME-2-soapui-project.xml</con:project>
+</con:soapui-workspace>

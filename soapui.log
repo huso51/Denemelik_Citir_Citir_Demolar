@@ -1,0 +1,43 @@
+15:06:24,983 INFO [com.eviware.soapui.impl.WorkspaceImpl] Loading workspace from [C:\Users\Hüseyin\eclipse-workspace_2\default-soapui-workspace.xml]
+15:06:25,438 INFO [com.eviware.soapui.impl.wsdl.WsdlProject] Loaded project from [file:/C:/Users/Hüseyin/Documents/001-SOAP-DENEME-soapui-project.xml]
+15:06:26,209 INFO [com.eviware.soapui.impl.wsdl.WsdlProject] Loaded project from [file:/C:/Users/Hüseyin/Documents/002-SOAP-DENEME-2-soapui-project.xml]
+15:06:56,547 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+15:06:56,574 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+15:06:56,575 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+15:06:56,577 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+15:06:56,578 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+15:06:56,580 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+15:06:56,582 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+15:06:56,585 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+15:06:56,587 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+15:06:56,591 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Added default schema from /com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+15:06:56,592 DEBUG [com.eviware.soapui.impl.wsdl.support.wsdl.WsdlLoader] Getting wsdl component from [http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?wsdl]
+15:06:56,696 DEBUG [com.eviware.soapui.impl.wsdl.support.wsdl.WsdlLoader] Getting wsdl component from [http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?xsd=1]
+15:06:56,724 DEBUG [com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext] Loading Definition...
+15:06:56,750 DEBUG [com.eviware.soapui.impl.wsdl.support.wsdl.WsdlInterfaceDefinition] Loading WSDL: http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?wsdl
+15:06:56,750 DEBUG [com.eviware.soapui.impl.wsdl.support.wsdl.AbstractWsdlDefinitionLoader] Returning baseInputSource [http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?wsdl]
+15:06:56,805 DEBUG [com.eviware.soapui.impl.wsdl.support.wsdl.AbstractWsdlDefinitionLoader] Returning latest import URI [http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?xsd=1]
+15:06:56,828 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Loading schema types from [http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?wsdl]
+15:06:56,829 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Getting schema http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?wsdl
+15:06:56,833 INFO [com.eviware.soapui.impl.wsdl.support.xsd.SchemaUtils] Getting schema http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi?xsd=1
+15:06:56,985 DEBUG [com.eviware.soapui.impl.support.definition.support.AbstractDefinitionContext] Loaded Definition: ok
+15:06:57,008 INFO [com.eviware.soapui.impl.wsdl.support.wsdl.WsdlImporter] Finding importer for {http://deneme.soap.com/}ProductCatalogImplPortBinding
+15:06:57,015 INFO [com.eviware.soapui.impl.wsdl.support.wsdl.WsdlImporter] Importing binding {http://deneme.soap.com/}ProductCatalogImplPortBinding
+15:06:57,022 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing endpoint http://desktop-248veca:8080/SoapDeneme/urunKataloguServisi
+15:06:57,040 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation kategorilerinCekilmesi
+15:06:57,043 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation stringEklenmesi
+15:06:57,044 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunCekilmesi
+15:06:57,045 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunEklenmesi
+15:06:57,045 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunGuncellenmesi
+15:06:57,046 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunlerinCekilmesi
+15:06:57,046 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunSilinmesi
+15:06:57,047 INFO [com.eviware.soapui.impl.wsdl.support.soap.Soap11HttpBindingImporter] importing operation urunSilinmesii2
+15:07:20,753 DEBUG [com.eviware.soapui.threads] runInUIThreadAsync: asyncExec com.eviware.soapui.eclipse.EclipseSoapUIDesktop$ModelItemDesktopPanelOpener
+15:07:29,782 INFO [com.eviware.soapui.impl.support.panels.AbstractHttpRequestDesktopPanel] Got response for [ProductCatalogImplPortBinding.urunlerinCekilmesi:Request 1] in 240ms (381 bytes)
+15:07:29,782 INFO [com.eviware.soapui.impl.support.panels.AbstractHttpRequestDesktopPanel] Got response for [ProductCatalogImplPortBinding.urunlerinCekilmesi:Request 1] in 240ms (381 bytes)
+15:10:25,639 INFO [com.eviware.soapui.impl.wsdl.WsdlProject] Saved project [001_SOAP_DENEME] to [C:\Users\Hüseyin\Documents\001-SOAP-DENEME-soapui-project.xml - 22079 bytes
+15:10:25,676 INFO [com.eviware.soapui.impl.wsdl.WsdlProject] Saved project [002_SOAP_DENEME_2] to [C:\Users\Hüseyin\Documents\002-SOAP-DENEME-2-soapui-project.xml - 21660 bytes
+15:10:25,677 DEBUG [com.eviware.soapui.threads] SwtDialogs.confirm[Save Project] -> runInUIThread
+15:10:25,694 DEBUG [com.eviware.soapui.threads] runInUIThread: syncExec com.eviware.x.impl.swt.SwtDialogs$1
+15:10:25,700 DEBUG [com.eviware.soapui.threads] SwtDialogs.confirm: run
+15:10:28,153 INFO [com.eviware.soapui.impl.WorkspaceImpl] Saved workspace to [C:\Users\Hüseyin\eclipse-workspace_2\default-soapui-workspace.xml]
